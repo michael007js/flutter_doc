@@ -1,0 +1,8 @@
+interface:
+  display_name: "Flutter 文档本地化工具"
+  short_description: "用于 Flutter/Dart 文档本地化桌面工具的开发、排错与交付指南"
+  default_prompt: "Use $flutter-doc to design, implement, debug, or validate the Flutter/Dart 文档本地化桌面工具项目。"
+
+policy:
+  allow_implicit_invocation: true
+
