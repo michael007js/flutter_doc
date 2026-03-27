@@ -289,8 +289,8 @@ class LocalizeService:
 
 ## 相关技能
 
-- [flutter_doc_constraints](file:///c:/app/flutter%20doc/.trae/skills/flutter_doc_constraints/SKILL.md) - 开发约束
-- [flutter_doc_mirror](file:///c:/app/flutter%20doc/.trae/skills/flutter_doc_mirror/SKILL.md) - 站点镜像服务
-- [flutter_doc_translation](file:///c:/app/flutter%20doc/.trae/skills/flutter_doc_translation/SKILL.md) - 翻译服务
-- [flutter_doc_preview](file:///c:/app/flutter%20doc/.trae/skills/flutter_doc_preview/SKILL.md) - 预览服务
-- [flutter_doc_errors](file:///c:/app/flutter%20doc/.trae/skills/flutter_doc_errors/SKILL.md) - 错误经验
+- [flutter_doc_constraints](file:///c:/app/flutter_doc/.trae/skills/flutter_doc_constraints/SKILL.md) - 开发约束
+- [flutter_doc_mirror](file:///c:/app/flutter_doc/.trae/skills/flutter_doc_mirror/SKILL.md) - 站点镜像服务
+- [flutter_doc_translation](file:///c:/app/flutter_doc/.trae/skills/flutter_doc_translation/SKILL.md) - 翻译服务
+- [flutter_doc_preview](file:///c:/app/flutter_doc/.trae/skills/flutter_doc_preview/SKILL.md) - 预览服务
+- [flutter_doc_errors](file:///c:/app/flutter_doc/.trae/skills/flutter_doc_errors/SKILL.md) - 错误经验

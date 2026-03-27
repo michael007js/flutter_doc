@@ -125,7 +125,7 @@ CREATE VIRTUAL TABLE IF NOT EXISTS search_index USING fts5(
 
 ## 相关技能
 
-- [flutter_doc_constraints](file:///c:/app/flutter%20doc/.trae/skills/flutter_doc_constraints/SKILL.md) - 开发约束
-- [flutter_doc_database](file:///c:/app/flutter%20doc/.trae/skills/flutter_doc_database/SKILL.md) - 数据库设计（搜索索引）
-- [flutter_doc_localize](file:///c:/app/flutter%20doc/.trae/skills/flutter_doc_localize/SKILL.md) - 本地化服务
-- [flutter_doc_gui](file:///c:/app/flutter%20doc/.trae/skills/flutter_doc_gui/SKILL.md) - GUI 界面
+- [flutter_doc_constraints](file:///c:/app/flutter_doc/.trae/skills/flutter_doc_constraints/SKILL.md) - 开发约束
+- [flutter_doc_database](file:///c:/app/flutter_doc/.trae/skills/flutter_doc_database/SKILL.md) - 数据库设计（搜索索引）
+- [flutter_doc_localize](file:///c:/app/flutter_doc/.trae/skills/flutter_doc_localize/SKILL.md) - 本地化服务
+- [flutter_doc_gui](file:///c:/app/flutter_doc/.trae/skills/flutter_doc_gui/SKILL.md) - GUI 界面

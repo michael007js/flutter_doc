@@ -171,8 +171,8 @@ flutter_doc/
 
 ## 相关技能
 
-- [flutter_doc_constraints](file:///c:/app/flutter%20doc/.trae/skills/flutter_doc_constraints/SKILL.md) - 开发约束
-- [flutter_doc_overview](file:///c:/app/flutter%20doc/.trae/skills/flutter_doc_overview/SKILL.md) - 项目概述
-- [flutter_doc_database](file:///c:/app/flutter%20doc/.trae/skills/flutter_doc_database/SKILL.md) - 数据库设计
-- [flutter_doc_mirror](file:///c:/app/flutter%20doc/.trae/skills/flutter_doc_mirror/SKILL.md) - 站点镜像服务
-- [flutter_doc_localize](file:///c:/app/flutter%20doc/.trae/skills/flutter_doc_localize/SKILL.md) - 本地化服务
+- [flutter_doc_constraints](file:///c:/app/flutter_doc/.trae/skills/flutter_doc_constraints/SKILL.md) - 开发约束
+- [flutter_doc_overview](file:///c:/app/flutter_doc/.trae/skills/flutter_doc_overview/SKILL.md) - 项目概述
+- [flutter_doc_database](file:///c:/app/flutter_doc/.trae/skills/flutter_doc_database/SKILL.md) - 数据库设计
+- [flutter_doc_mirror](file:///c:/app/flutter_doc/.trae/skills/flutter_doc_mirror/SKILL.md) - 站点镜像服务
+- [flutter_doc_localize](file:///c:/app/flutter_doc/.trae/skills/flutter_doc_localize/SKILL.md) - 本地化服务

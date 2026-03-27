@@ -121,11 +121,11 @@ Windows 上文件路径包含中文或空格时，可能导致编码错误。
 from pathlib import Path
 
 # 正确：使用 Path 对象
-project_path = Path(r"C:\app\flutter doc")
+project_path = Path(r"C:\app\flutter_doc")
 data_path = project_path / "data"
 
 # 错误：直接拼接字符串
-# data_path = "C:\app\flutter doc\data"  # \f 会被转义
+# data_path = "C:\app\flutter_doc\data"  # \f 会被转义
 ```
 
 ## 错误7：内存泄漏 - 信号未断开
@@ -285,8 +285,8 @@ db.upsert_task_status(
 
 ## 相关技能
 
-- [flutter_doc_constraints](file:///c:/app/flutter%20doc/.trae/skills/flutter_doc_constraints/SKILL.md) - 开发约束
-- [flutter_doc_database](file:///c:/app/flutter%20doc/.trae/skills/flutter_doc_database/SKILL.md) - 数据库设计
-- [flutter_doc_mirror](file:///c:/app/flutter%20doc/.trae/skills/flutter_doc_mirror/SKILL.md) - 站点镜像服务
-- [flutter_doc_gui](file:///c:/app/flutter%20doc/.trae/skills/flutter_doc_gui/SKILL.md) - GUI 与 CLI 功能
-- [flutter_doc_build](file:///c:/app/flutter%20doc/.trae/skills/flutter_doc_build/SKILL.md) - 编译与调试
+- [flutter_doc_constraints](file:///c:/app/flutter_doc/.trae/skills/flutter_doc_constraints/SKILL.md) - 开发约束
+- [flutter_doc_database](file:///c:/app/flutter_doc/.trae/skills/flutter_doc_database/SKILL.md) - 数据库设计
+- [flutter_doc_mirror](file:///c:/app/flutter_doc/.trae/skills/flutter_doc_mirror/SKILL.md) - 站点镜像服务
+- [flutter_doc_gui](file:///c:/app/flutter_doc/.trae/skills/flutter_doc_gui/SKILL.md) - GUI 与 CLI 功能
+- [flutter_doc_build](file:///c:/app/flutter_doc/.trae/skills/flutter_doc_build/SKILL.md) - 编译与调试

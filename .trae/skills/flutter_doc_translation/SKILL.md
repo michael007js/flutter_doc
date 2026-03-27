@@ -128,6 +128,6 @@ class VocabularyService:
 
 ## 相关技能
 
-- [flutter_doc_database](file:///c:/app/flutter%20doc/.trae/skills/flutter_doc_database/SKILL.md) - 数据库设计（翻译记忆表）
-- [flutter_doc_localize](file:///c:/app/flutter%20doc/.trae/skills/flutter_doc_localize/SKILL.md) - 本地化服务
-- [flutter_doc_gui](file:///c:/app/flutter%20doc/.trae/skills/flutter_doc_gui/SKILL.md) - GUI 与 CLI 功能
+- [flutter_doc_database](file:///c:/app/flutter_doc/.trae/skills/flutter_doc_database/SKILL.md) - 数据库设计（翻译记忆表）
+- [flutter_doc_localize](file:///c:/app/flutter_doc/.trae/skills/flutter_doc_localize/SKILL.md) - 本地化服务
+- [flutter_doc_gui](file:///c:/app/flutter_doc/.trae/skills/flutter_doc_gui/SKILL.md) - GUI 与 CLI 功能
