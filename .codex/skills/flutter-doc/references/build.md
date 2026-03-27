@@ -26,7 +26,9 @@
 4. 自定义命令调试
 5. 作为模块运行 `src.main`
 
-默认使用项目根目录下的 `.venv`。
+优先使用项目根目录下的 `.venv`；如果仓库未提供 `.venv`，先以工作区配置的 Python 解释器为准，并确认依赖已安装。
+
+在直接使用 `src.main`、`build.bat` 或调试配置前，先确认这些入口文件在当前工作区实际存在。
 
 ## 交付物
 
@@ -41,4 +43,3 @@
 - 项目边界：见 [constraints](constraints.md)
 - 测试验收：见 [testing](testing.md)
 - GUI / CLI 能力：见 [gui-cli](gui-cli.md)
-
